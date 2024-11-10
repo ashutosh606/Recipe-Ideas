@@ -10,10 +10,6 @@ A **React-based meal application** for browsing various meals and exploring deta
 - [Tech Stack](#tech-stack)
 - [Available Scripts](#available-scripts)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
