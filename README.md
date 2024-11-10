@@ -80,4 +80,4 @@ This will remove the single build dependency from your project and provide compl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/meal-application.git
+   git clone https://github.com/ashutosh606/Recipe-Ideas.git
